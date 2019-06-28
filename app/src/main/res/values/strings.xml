@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TradeMe!</string>
+    <string name="title_activity_customer">CustomerActivity</string>
+    <string name="mode_text">Buying on Credit or Paying?</string>
+    <string name="new_customer">New Customer</string>
+    <string name="delete_all">Delete all records</string>
+    <string name="create_customer">Create Customer</string>
+    <string name="new_summary_title">Add new Summary</string>
+    <string name="add_activity_btn_text">add Activity</string>
+    <string-array name="mode_selection">
+        <item>credit</item>
+        <item>paying</item>
+    </string-array>
+</resources>
